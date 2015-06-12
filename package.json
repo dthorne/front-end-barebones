@@ -1,0 +1,33 @@
+{
+  "name": "front-end barebones",
+  "version": "0.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-load-plugins": "^0.10.0",
+    "wiredep": "^2.2.2",
+    "connect": "^3.3.5",
+    "connect-livereload": "^0.5.3",
+    "del": "^1.1.1",
+    "gulp-clean": "^0.3.1",
+    "gulp-filter": "^2.0.2",
+    "gulp-inject": "^1.2.0",
+    "gulp-livereload": "^3.8.0",
+    "gulp-sync": "^0.1.4",
+    "http": "0.0.0",
+    "livereload": "^0.3.7",
+    "main-bower-files": "^2.7.0",
+    "opn": "^1.0.2",
+    "require-dir": "^0.3.0",
+    "serve-index": "^1.6.3",
+    "serve-static": "^1.9.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dewey McNeill",
+  "license": ""
+}
